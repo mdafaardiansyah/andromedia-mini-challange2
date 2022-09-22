@@ -5,8 +5,10 @@
   "dependencies": {
     "@babel/preset-react": "^7.17.12",
     "@emotion/react": "^11.9.0",
+    "@techstark/opencv-js": "4.6.0-release.1",
     "axios": "^0.27.2",
     "dbs": "workspace:^",
+    "mirada": "^0.0.15",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-icons": "^4.4.0",
